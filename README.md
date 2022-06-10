@@ -1,2 +1,2 @@
-# KnocKnocK
-Bring trust to social network
+# TurtleOracle Demo
+To be finished.
